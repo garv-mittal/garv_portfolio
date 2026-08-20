@@ -15,19 +15,19 @@ const PROJECTS = [
     role: 'Full-Stack Developer',
     tech: 'Next.js, Gemini API, MongoDB, Tailwind',
     image: '/mindspace.png',
-    link: '#',
+    link: 'https://mind-space-3-0-frontend.vercel.app/',
   },
   {
     id: '02',
-    name: 'Portfolio',
+    name: 'LU-CONNECT',
     year: '2026',
-    category: 'Web Experience',
+    category: 'Placement Platform',
     description:
-      'Responsive personal portfolio focusing on modern design and optimized performance with WebGL integration.',
-    role: 'Frontend Engineer',
+      'Comprehensive placement platform for students to apply to their desired opening as well as a Resume analyser along with HR Prep module',
+    role: 'Full Stack Engineer',
     tech: 'Next.js, Tailwind, Three.js, Framer',
-    image: '/portfolio.jpg',
-    link: '#',
+    image: '/luconnect.png',
+    link: 'https://lu-connect.avsingh.tech/',
   },
   {
     id: '03',
@@ -39,7 +39,7 @@ const PROJECTS = [
     role: 'Backend Developer',
     tech: 'Node.js, Express, MongoDB, JWT',
     image: '/vidtube.png',
-    link: '#',
+    link: 'https://github.com/garv-mittal/Vid_Tube_Backend',
   },
   {
     id: '04',
@@ -51,7 +51,7 @@ const PROJECTS = [
     role: 'Full-Stack Developer',
     tech: 'React, TypeScript, Gemini, Node.js',
     image: '/conceptlens.png',
-    link: '#',
+    link: 'https://concept-lens-ai.vercel.app/',
   },
 ];
 

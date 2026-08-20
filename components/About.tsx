@@ -37,7 +37,7 @@ export default function About() {
           <div className="relative w-full aspect-[4/5] overflow-hidden group rounded-sm bg-border/20">
             <motion.div style={{ y: imageY }} className="absolute inset-0 w-full h-[120%] -top-[10%]">
               <Image 
-                src="https://picsum.photos/seed/garv123/800/1000" 
+                src='/portfolio.png' 
                 fill 
                 className="object-cover grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-700" 
                 alt="Garv Mittal"
