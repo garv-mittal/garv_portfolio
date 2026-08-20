@@ -39,7 +39,15 @@ export default function About() {
               <Image 
                 src='/portfolio.png' 
                 fill 
-                className="object-cover grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-700" 
+                className="object-cover
+                          opacity-100
+                          md:grayscale
+                          md:opacity-80
+                          md:group-hover:grayscale-0
+                          md:group-hover:opacity-100
+                          transition-all
+                          duration-700" 
+                          grayscale-0
                 alt="Garv Mittal"
                 sizes="(max-width: 768px) 100vw, 40vw"
                 referrerPolicy="no-referrer"
