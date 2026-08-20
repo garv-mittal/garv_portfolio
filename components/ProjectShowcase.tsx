@@ -35,7 +35,7 @@ const PROJECTS = [
     year: '2025',
     category: 'Backend System',
     description:
-      'Scalable backend for a YouTube-like platform managing user authentication, video management, and user interactions.',
+      'Scalable backend for a YouTube-like platform managing user authentication, video management, and user interactions and cloud media storage',
     role: 'Backend Developer',
     tech: 'Node.js, Express, MongoDB, JWT',
     image: '/vidtube.png',
@@ -240,14 +240,14 @@ function ProjectItem({ project }: { project: Project }) {
             fill
             priority={project.id === '01'}
             className="
-              object-cover
-              transition-all
-              duration-[1.5s]
-              ease-[cubic-bezier(0.19,1,0.22,1)]
-              group-hover:scale-105
-              filter
-              grayscale
-              group-hover:grayscale-0
+            transition-all
+            duration-[1.5s]
+            ease-[cubic-bezier(0.19,1,0.22,1)]
+            group-hover:scale-105
+            grayscale-0
+            md:group-hover:grayscale-0
+            md:grayscale
+            object-cover
             "
             sizes="100vw"
           />
