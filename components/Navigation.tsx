@@ -70,7 +70,7 @@ export default function Navigation() {
             ))}
             
             <a 
-              href="https://drive.google.com/file/d/1YAtfOmVz-nwEmynJorcjdpivkoW6xemu/view?usp=sharing" 
+              href="https://drive.google.com/file/d/1aw8lGuq52lYunOdCIj5n6YmLG9FApNHp/view?usp=sharing" 
               target="_blank"
               rel="noopener noreferrer"
               className="relative group hover-target overflow-hidden pb-1 flex items-center gap-2"
