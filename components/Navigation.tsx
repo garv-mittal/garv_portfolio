@@ -140,7 +140,7 @@ export default function Navigation() {
                   transition={{ duration: 0.6, delay: 0.3, ease: [0.19, 1, 0.22, 1] }}
                 >
                   <a 
-                    href="https://drive.google.com/file/d/1YAtfOmVz-nwEmynJorcjdpivkoW6xemu/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1aw8lGuq52lYunOdCIj5n6YmLG9FApNHp/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="font-mono text-sm md:text-base uppercase tracking-widest text-foreground hover:text-muted transition-colors duration-300 flex items-center gap-2 w-fit hover-target border border-border px-6 py-3 rounded-full"
