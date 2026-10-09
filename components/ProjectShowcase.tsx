@@ -15,7 +15,7 @@ const PROJECTS = [
     role: 'Full-Stack Developer',
     tech: 'Next.js, Gemini API, MongoDB, Tailwind',
     image: '/mindspace.png',
-    link: 'https://mind-space-3-0-frontend.vercel.app/',
+    link: 'https://mind-space-3-0.vercel.app/',
   },
   {
     id: '02',
@@ -27,7 +27,7 @@ const PROJECTS = [
     role: 'Full Stack Engineer',
     tech: 'Next.js, Tailwind, Three.js, Framer',
     image: '/luconnect.png',
-    link: 'https://lu-connect.avsingh.tech/',
+    link: 'https://lu-connect-app.vercel.app/',
   },
   {
     id: '03',
